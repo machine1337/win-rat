@@ -4,7 +4,7 @@
 
 # Note:
  
-    This RAT open a CMD shell in Attacker System So Its better to learn CMD commands before running this script.
+    This RAT opens a CMD shell in Attacker System So Its better to learn CMD commands before running this script.
 
 # Installation:
    
