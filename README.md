@@ -6,7 +6,8 @@
   https://www.virustotal.com/gui/file/9fe32a10054b824b10cc24eb6ac1c96b5b8d4b3e730e4120c2a9891bc3d29a38/detection
   
 # Warning:
-    Don't upload powershell or exe payload to virustotal bcz i already did it for you. check antiscan.me if u want.
+    Don't upload powershell or exe payload to virustotal bcz i already did it for you. 
+    check antiscan.me if u want.
     As u all know, virustotal share files with AV companies.
     
 # Note:
