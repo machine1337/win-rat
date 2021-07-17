@@ -58,13 +58,13 @@ which zenity > /dev/null 2>&1
 sleep 2
 else
 echo -e ${RED}"\n[ X ] Zenity................[ Not Found ]"
-sleep 2
+sleep 1
 echo -e ${YELLOW}"\n[ ! ] Installing Zenity \n"
 sleep 1
 sudo apt-get install zenity -y
 clear
 echo -e ${BLUE}"[ ✔ ] Done installing ....\n "
-sleep 2
+sleep 1
 which zenity > /dev/null 2>&1
 fi
 addr=`hostname -I`
