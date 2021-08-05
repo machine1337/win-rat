@@ -21,7 +21,7 @@
     
 # Usage:
   
-    ./expose.sh
+    sudo bash expose.sh or sudo zsh expose.sh
     
     For WAN Attack:
        Use NGROK or any Port Forwarding method.
