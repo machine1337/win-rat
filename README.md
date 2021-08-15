@@ -36,5 +36,6 @@
      3. More Features will be added w.r.t IA.
      
 # Author:
-     [Facebook] (https://facebook.com/unknownclay)
-     [Twitter] (https://twitter.com/whoami4041)
+  1. https://www.facebook.com/pakhack01 
+  2. https://instagram.com/invisibleclay100 
+  3. https://www.youtube.com/channel/UCC_aPnmV_zGfdwktCFE9cPQ 
